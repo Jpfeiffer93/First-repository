@@ -1,0 +1,4 @@
+welcome: "Welcome to Calculator! How large is the loan you need?"
+rate: "Great! next you need to enter the APR for the loan"
+valid: "Enter a valid number please"
+time: "Next we need to know the duration of your loan in years."
